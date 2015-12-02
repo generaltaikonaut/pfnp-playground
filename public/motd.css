@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+button {
+  align-self: center;
+  padding: 20px;
+  font-size: 50px;
+  background-color: gold;
+}
